@@ -11,4 +11,4 @@ class HelloHandler {
   }
 }
 
-export const handler = createHandler(HelloHandler);
+export default createHandler(HelloHandler);
